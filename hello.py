@@ -1,0 +1,1 @@
+print("Hello, World By Furqan 232027!")
